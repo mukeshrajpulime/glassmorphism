@@ -1,2 +1,2 @@
 # glassmorphism
-glass moprhism css code
+glass  moprhism css code
